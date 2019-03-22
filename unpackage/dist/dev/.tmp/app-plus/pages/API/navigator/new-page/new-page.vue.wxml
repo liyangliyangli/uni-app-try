@@ -1,0 +1,1 @@
+<import src="/components/page-head.vue.wxml" /><template name="1ba6deb3"><view class="_view 1ba6deb3 root"><template data="{{...$root['0'], ...$root[$kk+'1ba6deb3-0'],$root}}" is="7c03a689"></template><view class="_view 1ba6deb3 page-body">{{data}}</view></view></template>
